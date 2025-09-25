@@ -1,0 +1,24 @@
+Request URL
+https://github.com/gabdung/linux-headers-5.15.0-1005-azure/branch-and-tag-count
+Referrer Policy
+no-referrer-when-downgrade
+accept
+text/html
+referer
+https://github.com/gabdung/linux-headers-5.15.0-1005-azure
+sec-ch-ua
+"Chromium";v="140", "Not=A?Brand";v="24", "Google Chrome";v="140"
+sec-ch-ua-mobile
+?0
+sec-ch-ua-platform
+"Windows"
+user-agent
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+x-fetch-nonce
+v2:938853ad-7610-9a8f-9723-eeeb6f97eaa3
+x-fetch-nonce-to-validate
+v2:938853ad-7610-9a8f-9723-eeeb6f97eaa3
+x-github-client-version
+3ae349d88582991c93d4d6904c62be952b418a2a
+x-requested-with
+XMLHttpRequest
